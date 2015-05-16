@@ -1,0 +1,17 @@
+﻿Build started 5/5/2015 8:37:54 PM.
+     1>Project "D:\OpenGL-tutorial_v0014_33\fbxLoading\mypro\mypro.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\OpenGL-tutorial_v0014_33\fbxLoading\\lib\include" /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /FR"Debug\\" /Gd /TP /analyze- /errorReport:prompt main.cxx
+         main.cxx
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\OpenGL-tutorial_v0014_33\fbxLoading\Debug\mypro.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:.\..\..\lib\vs2012\x86\debug /LIBPATH:"D:\OpenGL-tutorial_v0014_33\fbxLoading\\lib\lib\vs2012\x86\debug" /LIBPATH:.\glutx86 "libfbxsdk-md.lib" glew32.lib glfw3.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\OpenGL-tutorial_v0014_33\fbxLoading\Debug\mypro.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\OpenGL-tutorial_v0014_33\fbxLoading\Debug\mypro.lib" /MACHINE:X86 Debug\FBXLoader.obj
+         Debug\main.obj
+         Debug\targa.obj
+         mypro.vcxproj -> D:\OpenGL-tutorial_v0014_33\fbxLoading\Debug\mypro.exe
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\bscmake.exe /nologo /o"D:\OpenGL-tutorial_v0014_33\fbxLoading\Debug\mypro.bsc" /n Debug\FBXLoader.sbr Debug\main.sbr Debug\targa.sbr
+     1>Done Building Project "D:\OpenGL-tutorial_v0014_33\fbxLoading\mypro\mypro.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.05
